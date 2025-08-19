@@ -1,0 +1,15 @@
+export const selectOptions = [
+  { value: "aToZ", label: "Title (A-Z)" },
+  { value: "zToA", label: "Title (Z-A)" },
+  { value: "priceAsc", label: "Price (Low to High)" },
+  { value: "priceDesc", label: "Price (High to Low)" },
+  { value: "salePriceAsc", label: "Sale Price (Low to High)" },
+  { value: "salePriceDesc", label: "Sale Price (High to Low)" },
+  { value: "stockAsc", label: "Stock (Low to High)" },
+  { value: "stockDesc", label: "Stock (High to Low)" },
+  { value: "ratingAsc", label: "Rating (Low to High)" },
+  { value: "ratingDesc", label: "Rating (High to Low)" },
+  { value: "newest", label: "Newest" },
+  { value: "oldest", label: "Oldest" },
+  { value: "featured", label: "Featured First" },
+];
